@@ -11,8 +11,8 @@ int main() {
     	comp[i] = 0;
     
     }    
-    while (zero != -1) {  // se o valor digitado é menos um um código se encerra
-        printf("Digite um valor entre 1 e 5000:\n");
+    while (zero != -1) {  // se o valor digitado é menos um o código se encerra
+        printf("Digite um valor entre 1 e 5000:\n"); // printa no terminal a frase entre aspas
         scanf("%d", &zero); // lê o valor digitado pelo o usuário
         
         if (zero > -1 && zero <= 5000) { // verifica se o valor digitado está entre 0 e 5000
