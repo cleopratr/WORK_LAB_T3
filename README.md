@@ -2,7 +2,7 @@
 
 # T3_540344
 
-***Descrição***:
+***DESCRIÇÃO***:
 
 O código construído tem como objetivo ler inteiros digitados pelo usuário, tendo por limite os inteiros de 0 a 5000. Ao digitar o número -1 o código deve retornar os inteiros em ordem crescente, sem a repetição de um mesmo inteiro que foi inserido pelo usuário duas vezes. Para armazenar os valores são utilizadas as operações bit a bit
 
