@@ -12,9 +12,11 @@ O código construído tem como objetivo ler inteiros digitados pelo usuário, te
 
 ## 2. Como compilar e executar
 
-> **Após ascessar a pasta com o código no terminal, digite:** </h1>
+> **Após ascessar a pasta com o código no terminal, digite:**
+> 
 > cd LAB_WORK_T3 
 > gcc T3_540344 -o T3_540344
 > 
-> **Para executar seu código, ainda no terminal digite:** </h1>
+> **Para executar seu código, ainda no terminal digite:** 
+> 
 > ./T3_540344
