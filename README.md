@@ -11,7 +11,6 @@
 * [Como baixar](https://github.com/cleopratr/LAB_WORK_T3/edit/main/README.md#como-baixar)
 * [Como compilar e executar](#como-compilar-e-executar)
 * [Funcionalidades do Código](#funcionalidades-do-código)
-* [Desenvolvedor](#desenvolvedor)
 
 # DESCRIÇÃO DO CÓDIGO 
 
@@ -41,5 +40,4 @@ O código construído tem como objetivo ler inteiros digitados pelo usuário, te
 - `Funcionalidade 2`: Ordena os números em ordem crescente
 - `Funcionalidade 3`: Ao usuário digitar -1 o programa imprime os números ordenados na tela
 
-# Desenvolvedor
-RAYANNE MOTA MAIA (https://github.com/cleopratr)
+
