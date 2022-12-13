@@ -28,6 +28,7 @@ O código construído tem como objetivo ler inteiros digitados pelo usuário, te
 > **Após ascessar a pasta com o código no terminal, digite:**
 > 
 > cd LAB_WORK_T3 
+
 > gcc T3_540344 -o T3_540344
 > 
 > **Para executar seu código, ainda no terminal digite:** 
