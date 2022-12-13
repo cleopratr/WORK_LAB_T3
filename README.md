@@ -21,7 +21,7 @@ O código construído tem como objetivo ler inteiros digitados pelo usuário, te
 
 > **Copie o comando abaixo:**
 > 
-> git clone https://github.com/cleopratr/LAB_WORK_T3
+> git clone https://github.com/cleopratr/WORK_LAB_T3
 
 # Como compilar e executar
 
