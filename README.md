@@ -1,6 +1,4 @@
-<h1 align="center"> T3_540344 </h1>
-
-# T3_540344
+<h1 align="center"> ORDENAÇÃO DE NÚMEROS </h1>
 
 ***DESCRIÇÃO***:
 
